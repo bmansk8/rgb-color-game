@@ -1,0 +1,27 @@
+body{
+    background-color: #232323;
+}
+
+.sqaure{
+    width:30%;
+    background-color: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+#container{
+    max-width: 600px;
+    margin:  0 auto;
+}
+
+h1{
+    color: white;
+}
+
+#stripe{
+    height: 30px;
+    text-align: center;
+    background-color:white;
+    color: black;
+}
